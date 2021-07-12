@@ -457,7 +457,7 @@ header.menu-sticky { padding: 15px 50px 0px; -webkit-box-shadow: 5px 5px 20px 0p
 header.menu-sticky .menu li a { padding: 0px 25px 15px; }
 header.menu-sticky .menu li .sub-menu li a { padding: 10px 25px; }
 .logo a { text-transform: uppercase; color: #1a1a1a; font-size: 30px; font-family: 'Abel', sans-serif; letter-spacing: 2px; }
-.logo a img { height: 25px; }
+.logo a img { height: 90px; }
 .menu { display: block; }
 .menu li { display: inline-block; position: relative; }
 .menu li a { text-decoration: none; padding: 0px 25px 25px; display: block; color: #1a1a1a; font-family: 'Abel', sans-serif; text-transform: uppercase; font-size: 16px; transition: all 0.2s ease-in-out 0s; }
